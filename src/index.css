@@ -111,3 +111,26 @@
   font-size: 1rem;
   font-family: monospace;
 }
+
+.hero {
+  height: 79vh;
+  background-image: url('https://wallpapercave.com/dwp1x/wp12812509.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  color: #fff;
+  padding-left: 136px;
+  align-items: center;
+
+  h1 {
+    font-size: 62px;
+    line-height: 74.4px;
+  }
+
+  p {
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+  }
+}
