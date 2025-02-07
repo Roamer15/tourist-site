@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from "react-router"
 import Package from './pages/Package'
-import Home from './pages/Package'
-import AboutUs from './pages/Package'
-import ContactUs from './pages/Package'
-import Gallery from './pages/Package'
+import Home from './pages/Home'
+import AboutUs from './pages/AboutUs'
+import ContactUs from './pages/ContactUs'
+import Gallery from './pages/Gallery'
 
 function App() {
 
