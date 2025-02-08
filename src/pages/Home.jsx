@@ -4,6 +4,7 @@ import Hero from "../components/Hero";
 import SearchBar from "../components/SearchBar";
 import PackageText from "../components/PackageText";
 import DisplayCards from "../components/DisplayCards";
+import Destinations from "../components/Destinations";
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
       title='Select Our Best Popular Destinations' 
       text='Popular Destinations'
       />
+      <Destinations />
     </>
   );
 }

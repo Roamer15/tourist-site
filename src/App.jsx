@@ -5,6 +5,7 @@ import AboutUs from "./pages/AboutUs";
 import ContactUs from "./pages/ContactUs";
 import Gallery from "./pages/Gallery";
 import { CardData } from "./context/context";
+import './App.css';
 
 function App() {
   return (

@@ -298,3 +298,67 @@ body {
 .card-body {
   padding: 2rem 5rem 1rem 0.7rem;
 }
+
+.destinations {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.destination {
+  margin: 10px 0;
+  padding: 15px;
+  text-align: left;
+
+  img {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 3rem;
+    object-fit: cover;
+    border: 5px solid #000;
+    margin-bottom: 3rem;
+}
+}
+
+.destination h2 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+}
+
+.destination p {
+  font-size: 16px;
+  color: #9A9AB0;
+}
+
+.navigation {
+  display: flex;
+  text-align: right;
+  justify-content: right;
+  margin-bottom: 20px;
+}
+
+.nav-button {
+  background-color: transparent;
+  border: 2px solid #c7923e;
+  color: #c7923e;
+  font-size: 24px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 0 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-button:hover {
+  background-color: #007BFF;
+  color: white;
+}
+
+.destination-card {
+  display: flex;
+}

@@ -25,8 +25,31 @@ export const CardData = ({children}) => {
         }
     ]
 
+     const destinations = [
+        {
+            name: "Kigali",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sit.",
+            image: "https://s3-alpha-sig.figma.com/img/a863/7b3c/2e3b6a00b8bbcfe1105f7916ee6a392e?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ubYhSfaus1mmzjAOxWxWiRbgUDFyOSpt2fltcwJ~QOCs-MV8zUYf0SLrn5zTdwiZLzArVhOnFNqu7tF~iJU-bzP3X2CVrgU2grRTT8mtoCU5hNq7pqw95KelowfAPsNyDKziCEahgowmqvHiRuywPe5bndbp85lkxWRBq1K-lUjlFr05LAfD2ptrx0OuqVcGCweaA6CHuxowMDXLIoIcvt1wnw16G6nEfrd8BcV6x2vhsKkRQD~sAMv30Ef8j6prLgyjOMS5zib6GwQLFp~r48wpLcbhUYkdTGC5g7I~vgwNHiW8Y3RG-PS~9eUJCYr1~JO1IQIUpJpMyj5g29biew__"
+        },
+        {
+            name: "Huye",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sit.",
+            image: "https://s3-alpha-sig.figma.com/img/80dd/5d9d/fbecb6b4f26bc944de8a49c1f1fe7022?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sorF~HVgsuDXbplrRxoFKfITWicWblZhNIrZ4hEoiRmgfsZS4CCT8G0-GEYtqD6q4wHfpSRimOLvV~ReJrlVMnXQSPDB2nwiZR9fbo4M3cY6YZY0X1oXgLLnhhaXjStFRKqWeVyy6dig-ZsOers8eMGXSAGfuMcVgvc4MTt4KXCxP5bQecmv~LdeTObEarRkGSsFWafV3850OKfp-XRggd-QYl8H0co5oWlmJRHxF-tRbs09QdYapz8IuCCQJSvINO058zg3B9-ErM6EJpZy~4imenciMHxAacwdni5dGx5emBp4guuXcOplwu~KK8QzIckZnvStyoG3RTJY3LhgJQ__"
+        },
+        {
+            name: "Rubavu",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sit.",
+            image: "https://s3-alpha-sig.figma.com/img/8617/a5ae/25ee4aa2ad522926670eec6990d4dfd8?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VAcFBYS2CIgLgzisV5QCCpIgaaWSVkOCdjvEX2lSstrI4qxg0yE1xkl5lgvj18Fc32VPw-S7oXdWM4ibSJ8GIsh-qPX9rqviFMb-JLVwj0YQdloJH3pkEXiuX4QrMxcDjbta~zyOi16RqYZqK1JiukzbwGAYY~y26wDsionJSR~gnbHDD4wR2krxWd5BAVvFzLhNOtXV7CGUDja7syugH9m7L0MlYx8Dim-H0fczzivQ3HdW966CJpHCxQGMigKUEgCq1pAAfWbQLnNh3nj2sv3vsH7huYLMeqSWfoCXSUx8YnU7ZtV4unOHh4-tpLYH2O-GZZEJUxyGVCgGCWxqIg__"
+        },
+        {
+            name: "Musanze",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sit.",
+            image: "https://s3-alpha-sig.figma.com/img/fea2/604b/aee50bbe92ffcd58172c7b9db8afdd94?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=C~BDLmJm2POtW-k4FMkJgjIisFAiohhUJZn6nmEAuAGbAfx~sS6PhtrIHM3Nhyjc1Ufg7Ryis9mT~tZCXMR9tZp9mxrHLPBKejqiNNlNZjJ-uU9eAecMINO9It37OlzmXsBlTp~6R4YV4WJktb3B0eWkV45RoivBPbu6zADAziTL0mS2Iu-RBDcngChtDl-ebPjaq2~Juic1SM9PT0Q0WM7Djf9zkWQ~Sl0kqwsGNC9LH6Amc05STQKmbYd9s-8XwkSH5qN8eCYObzfrO0kWrnavLzAM~mzFPIFHmSmMjEVnDFauNLNHYlFJsor5-Ul~B8Qb8r2Y3CHB23sg8FezDA__"
+        }
+    ];
+
     return (
-        <CardContext.Provider value= {{cards}}>
+        <CardContext.Provider value= {{cards, destinations}}>
             {children}
         </CardContext.Provider>
     )
