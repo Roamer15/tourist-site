@@ -26,6 +26,11 @@ export default function Home() {
       text='Popular Destinations'
       />
       <Destinations />
+
+      <PackageText 
+      title='Why Travel with Africa wizzy Safari' 
+      text='Why us?'
+      />
     </>
   );
 }

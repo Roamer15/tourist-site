@@ -7,7 +7,7 @@ export default function Destinations() {
     <section className="destinations">
       <div className="navigation">
         <button className="nav-button">‹</button>
-        <button className="nav-button">›</button>
+        <button className="right-nav">›</button>
       </div>
       <div className="destination-card">
       {destinations.map((destination, index) => (
