@@ -7,6 +7,7 @@ import DisplayCards from "../components/DisplayCards";
 import Destinations from "../components/Destinations";
 import WhyUS from '../components/WhyUs';
 import Client from '../components/Client';
+import Footer from '../components/Footer';
 
 export default function Home() {
   return (
@@ -42,6 +43,8 @@ export default function Home() {
       />
 
       <Client/>
+
+      <Footer />
     </>
   );
 }
