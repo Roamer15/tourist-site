@@ -384,3 +384,39 @@ body {
 .destination-card {
   display: flex;
 }
+
+.why-us {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 7rem 0;
+  background-color: #304F47;
+}
+
+.client {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2rem;
+
+  img {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 1rem;
+  }
+}
+
+.client-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 4px 4px #000;
+  margin: 0 1rem;
+  width: 20rem;
+}

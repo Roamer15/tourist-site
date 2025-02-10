@@ -5,6 +5,8 @@ import SearchBar from "../components/SearchBar";
 import PackageText from "../components/PackageText";
 import DisplayCards from "../components/DisplayCards";
 import Destinations from "../components/Destinations";
+import WhyUS from '../components/WhyUs';
+import Client from '../components/Client';
 
 export default function Home() {
   return (
@@ -31,6 +33,15 @@ export default function Home() {
       title='Why Travel with Africa wizzy Safari' 
       text='Why us?'
       />
+
+      <WhyUS />
+
+      <PackageText 
+      title='What our clients say about us' 
+      text='Our Traveller Say'
+      />
+
+      <Client/>
     </>
   );
 }
