@@ -1,3 +1,4 @@
+import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter, Routes, Route } from "react-router";
 import Package from "./pages/Package";
 import Home from "./pages/Home";
