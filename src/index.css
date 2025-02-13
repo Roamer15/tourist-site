@@ -9,6 +9,7 @@
 
 body {
   font-weight: 400;
+  font-family: 'Mulish', sans-serif;
 }
 
 .head-contact {
@@ -89,7 +90,8 @@ body {
       text-decoration: none;
       align-items: center;
 
-      &:hover {
+      &:hover,
+      &:active {
         transition: 0.5s ease-in-out;
         color: #304f47;
         border-bottom: 2px solid transparent;
@@ -121,7 +123,8 @@ body {
 
 .hero {
   height: 50vh;
-  background-image: url('https://wallpapercave.com/dwp1x/wp12812509.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.33)), 
+              url('https://wallpapercave.com/dwp1x/wp12812509.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -265,8 +268,8 @@ body {
 
 .card-container {
   display: grid;
-  padding: 0 5rem; 
-  grid-template-columns:  33.33% 33.33% 33.33%;
+  padding: 0.5rem 5rem; 
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 1rem;
 
   img {
@@ -279,7 +282,6 @@ body {
 }
 
 .card {
-  width: 21rem;
   border: 1px solid #e0e0e0;
   border-radius: 8px;
   box-shadow: 0px 4px 4px #0040;
@@ -486,9 +488,9 @@ footer {
   display: flex;
   flex-direction: column;
   background-color: #304f47;
-  padding: 20px;
   color: #fff;
   font-family: Arial, sans-serif;
+  padding: 20px;
 }
 
 .footer {
@@ -549,20 +551,23 @@ footer {
   width: 55px;
 }
 
-.nav {
+.navi {
   display: flex;
   flex-direction: column;
+  padding: 0 3rem 0 0;
 }
 
-.top {
+.foot {
+  width: 70%;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 20px;
+  margin: 30px 0 20px;
 }
 
 .top img {
-  height: 50px; /* Adjust as needed */
+  height: 89px;
+  width: 86px
 }
 
 .social-icons {
@@ -576,6 +581,11 @@ footer {
   cursor: pointer;
 }
 
+.p {
+  width: 90%;
+  margin: 1rem 0 4rem;
+}
+
 .links {
   display: flex;
   justify-content: space-between;
@@ -585,18 +595,21 @@ footer {
 .column {
   display: flex;
   flex-direction: column;
+  width: 80%;
 }
 
 .column a {
   text-decoration: none;
-  color: #333;
+  color: #fff;
   margin: 5px 0;
-  font-size: 14px;
+  font-size: 16px;
+  line-height: 19.2px;
 }
 
 .copyright {
   text-align: center;
   margin-top: 20px;
-  font-size: 12px;
-  color: #666;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fff;
 }

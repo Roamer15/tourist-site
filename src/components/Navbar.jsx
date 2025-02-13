@@ -1,7 +1,7 @@
-//import { useNavigate } from "react-router";
+import { useNavigate } from "react-router";
 
 export default function Navbar() {
-  //const navigate = useNavigate();
+  const navigate = useNavigate();
 
   return (
     <div className="navabar">
@@ -14,12 +14,12 @@ export default function Navbar() {
         </div>
         <div className="nav">
           <nav>
-            <a href='#'>Home</a>
-            <a href='#'>About</a>
-            <a href='#'>Tour package</a>
-            <a href='#'>Gallery</a>
+            <a onClick={() => navigate('/')}>Home</a>
+            <a onClick={() => navigate('/about_us')}>About</a>
+            <a onClick={() => navigate('/package')}>Tour package</a>
+            <a onClick={() => navigate('/gallery')}>Gallery</a>
             <a href='#'>Blog</a>
-            <a href='#'>Contact Us</a>
+            <a onClick={() => navigate('/contact_us')}>Contact Us</a>
           </nav>
         </div>
       </div>
