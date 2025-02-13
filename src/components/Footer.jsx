@@ -3,6 +3,7 @@ import SendIcon from "@mui/icons-material/Send";
 export default function Footer() {
   return (
     <footer>
+      <div className="footer">
       <div className="info">
         <h1>If you have any question, Let us help you!</h1>
         <p>
@@ -62,6 +63,7 @@ export default function Footer() {
             <a href="#">Gallery</a>
           </div>
         </div>
+      </div>
       </div>
       <div className="copyright">
         <p>Copyright Africa Wizzy Safari 2022</p>
