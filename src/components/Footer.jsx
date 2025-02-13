@@ -10,8 +10,8 @@ export default function Footer() {
           If you have any questions or would like to book a tour with us, please
           don't hesitate to contact us.
         </p>
-        <p>Phone: +250 788 123 456</p>
-        <p>Email: info@rwandatourism.com</p>
+        <p style={{marginTop: "2rem"}}>Phone: +250 788 123 456</p>
+        <p style={{textDecoration: "underline"}}>Email: info@rwandatourism.com</p>
         <p>Address: Kigali, Rwanda</p>
         <h3>Subscribe to our newspaper</h3>
         <form>

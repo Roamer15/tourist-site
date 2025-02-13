@@ -44,6 +44,12 @@ export default function Home() {
 
       <Client/>
 
+      <div className="colors">
+        <div className='color yellow'></div>
+        <div className='color green'></div>
+        <div className='color green'></div>
+      </div>
+
       <Footer />
     </>
   );
