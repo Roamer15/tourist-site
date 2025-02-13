@@ -1,6 +1,6 @@
 import HeadContact from "../components/HeadContact";
 import Navbar from "../components/Navbar";
-import Hero from "../components/Hero";
+import HeroCommon from "../components/HeroCommon";
 import PackageText from "../components/PackageText";
 import DisplayCards from "../components/DisplayCards";
 import Footer from '../components/Footer';
@@ -10,7 +10,7 @@ export default function Package() {
         <>
           <HeadContact/>
           <Navbar/>
-          <Hero/>
+          <HeroCommon title='Tour Package'/>
           <PackageText 
           title='Select your Best Package for your Travel' 
           text='Choose your Package'

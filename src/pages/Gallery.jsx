@@ -1,9 +1,8 @@
 import HeadContact from "../components/HeadContact";
 import Navbar from "../components/Navbar";
-import Hero from "../components/Hero";
-import PackageText from "../components/PackageText";
-import DisplayCards from "../components/DisplayCards";
+import HeroCommon from "../components/HeroCommon";
 import Footer from '../components/Footer';
+
 
 export default function Gallery() {
 
@@ -11,7 +10,7 @@ export default function Gallery() {
         <>
           <HeadContact />
           <Navbar />
-          <Hero />
+          <HeroCommon title='Gallery'/>
           <Footer />
         </>
     )
