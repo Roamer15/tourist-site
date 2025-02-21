@@ -34,12 +34,12 @@ export const CardData = ({children}) => {
         {
             name: "Huye",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sit.",
-            image: "https://s3-alpha-sig.figma.com/img/80dd/5d9d/fbecb6b4f26bc944de8a49c1f1fe7022?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sorF~HVgsuDXbplrRxoFKfITWicWblZhNIrZ4hEoiRmgfsZS4CCT8G0-GEYtqD6q4wHfpSRimOLvV~ReJrlVMnXQSPDB2nwiZR9fbo4M3cY6YZY0X1oXgLLnhhaXjStFRKqWeVyy6dig-ZsOers8eMGXSAGfuMcVgvc4MTt4KXCxP5bQecmv~LdeTObEarRkGSsFWafV3850OKfp-XRggd-QYl8H0co5oWlmJRHxF-tRbs09QdYapz8IuCCQJSvINO058zg3B9-ErM6EJpZy~4imenciMHxAacwdni5dGx5emBp4guuXcOplwu~KK8QzIckZnvStyoG3RTJY3LhgJQ__"
+            image: "https://s3-alpha-sig.figma.com/img/8617/a5ae/25ee4aa2ad522926670eec6990d4dfd8?Expires=1740960000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=C2IjFqwY8DhrCrXCVd5BXcojampvchteqXyeZq31fDFnX9Gzdl2D4V0MclpqQMjk8BCe5PnYIc6vTkyVzgGtWwcg81r5-vx~mtdMYRYSXVRkiSMAbjXPp5U0Pq59amjdIv7-tdQAvBvG3pLqaSorm1eKvTC2AckXnBvoqDewY9STQJlvFCiZFIyeqsxptv1o31e6Ul0kCteasf6riuBGak-4ohXBEwdrESd2BD6NYMbDoDYEEmt7LRNO1tHh0l2xGFmBfa7~gxiS0fO6ZtI2uDo2shIlW0FAhbwSp8y4LGgaVE-C4whK~W5NR5C-3qEvaiElcs7ICzEXCSXn8JOmiQ__"
         },
         {
             name: "Rubavu",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sit.",
-            image: "https://s3-alpha-sig.figma.com/img/8617/a5ae/25ee4aa2ad522926670eec6990d4dfd8?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VAcFBYS2CIgLgzisV5QCCpIgaaWSVkOCdjvEX2lSstrI4qxg0yE1xkl5lgvj18Fc32VPw-S7oXdWM4ibSJ8GIsh-qPX9rqviFMb-JLVwj0YQdloJH3pkEXiuX4QrMxcDjbta~zyOi16RqYZqK1JiukzbwGAYY~y26wDsionJSR~gnbHDD4wR2krxWd5BAVvFzLhNOtXV7CGUDja7syugH9m7L0MlYx8Dim-H0fczzivQ3HdW966CJpHCxQGMigKUEgCq1pAAfWbQLnNh3nj2sv3vsH7huYLMeqSWfoCXSUx8YnU7ZtV4unOHh4-tpLYH2O-GZZEJUxyGVCgGCWxqIg__"
+            image: "https://s3-alpha-sig.figma.com/img/80dd/5d9d/fbecb6b4f26bc944de8a49c1f1fe7022?Expires=1740960000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=XJHINtxD~WQ2zSRut-Vkis9enoAAi1pLEGVRVYk-Ss59~-bE6UXGU~atUa7~3R3JNCYCjdiLJX7LY~bUQLIs60pb6o4FHeH7L3Em7-mfnD68PnnE0V5SfrgUou3d7aes7O3nHgQD30k1A30uOnrekCepl093fT6bCho1Z2mtYvOa7G8Wct9JTlNfznCMME2nFshuLR02eDmGLQbXBPRASdDFs2EZ6O7IIyoiySojZ8O~jrNfpxKZFN7OZF5GaRFPRGziwbSM1osNOfGsmjt5T68hE7meFZBpXZbD6c6WIswsnfkSk0kMut9G5pS6QRLFijQzTTnytBdhnIG4J4-fIw__"
         },
         {
             name: "Musanze",

@@ -14,7 +14,7 @@ export default function Home() {
     <>
       <HeadContact />
       <Navbar />
-      <div className="container">
+      <div className="containerH">
         <Hero />
         <SearchBar />
       </div>
