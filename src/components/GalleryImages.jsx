@@ -76,7 +76,7 @@ export default function GalleryImages() {
         <img src="https://s3-alpha-sig.figma.com/img/7f97/05cf/efd22d0a9bd512eb96d8b30fd398822a?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=duZTFaGarjRrvkMjlW0NKHiBcw2LhUo9bpm-KD3wPDgAnfNvuhs89TiU-KflXdjK0M9dQksT6zuC6PKphRVajFer86pF0EsHVQfxsqqJxI0AKKurTjdfVadDEVy-CbsFhvq0xqZ5n1mhueePaqg6bjyhRffp~VBIhXBxdKAjj7fpICUViNKah8Y-9ovS5nKPvecd-DJTJJAN-PllbID~jTF6c59v6~6xHT7qLI0RsNb9So1atLzSsVIryw9Fi9wmtWz1p82rf4cB~7HbnLdosN1LaWKt~BSA0zPDF1y3TYKWjer84d1K6KHvg3TvbJTh0vqb3I8romfSzV72Bc9zsA__" alt="" />
       </div>
       <div className='gallery-item' style={{height: '250px'}}>
-        <img alt="" src="https://www.google.com/imgres?q=pics%20of%20rwanda&imgurl=https%3A%2F%2Flp-cms-production.imgix.net%2F2023-03%2FGettyImages-1139556558.jpg&imgrefurl=https%3A%2F%2Fwww.lonelyplanet.com%2Frwanda&docid=V72hJ8cHlailNM&tbnid=25kqSl6dEPq-tM&vet=12ahUKEwiIluXO4OGLAxUTRPEDHb_LE_YQM3oECG0QAA..i&w=5200&h=3467&hcb=2&ved=2ahUKEwiIluXO4OGLAxUTRPEDHb_LE_YQM3oECG0QAA" />
+        <img alt="" src="https://lp-cms-production.imgix.net/2023-03/GettyImages-1139556558.jpg" />
       </div>
       <div className='gallery-item'>
         <img src="https://s3-alpha-sig.figma.com/img/efdb/cec2/a35932c0e5b21dfbfb30629b08803e12?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=juyKdNpTPmn1BKKXXVl1Jw1tvTSIvd4EI-89jV2Usxx5gJvKYS~NCKI60tDiDOL0qRvlEKpGFFW~aitACy9npON81bWLpYI0OUgX8B27xRdEphLiu02rAcMWwHdVrPFffzyGJB2rFv--cEMUrJBFE-36zL3Ghh~yO1uWysTmA87Y4wDzOw9sxZIHAoMsQ9gdt5QfSgBAcsKIGCT82deX~kIY8u8C86GrEDofPwsANPBSU8hz4B-ZdixQRQoAQJwR4E2hrs1IYK~cje~xalc84mDqGv3V5orRcp39imuqCpqjPfAZuP3DWx29fk1zn4~c9RcRzszMK7dmaVCtDczsBg__" alt="" />
