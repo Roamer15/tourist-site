@@ -37,7 +37,7 @@ export default function AboutUs() {
         </div>
         <div className="image-right">
           <img
-            src="https://s3-alpha-sig.figma.com/img/4ff2/5fbb/d22801330eccf9aaeedf7388f729ecdf?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ZTTtcA7umDxF2EKykhyQ2uyykn-mTE2DzNVFc5lMgwHCD8K2wK7oO3dzX-PIwC70gzpE-2qXuUO2D4HdJuaEAAOHJN8cXFknPUM0Mb6vNZOnrsBEaliVODTTrdsydZvu67~~~2VGTiQK4Avs9X4gVs-v2b250SjTzJh7XeIn70vmVcqUX5u0cvq~V3iGhf8HYpFt3oBE6zT0NoUz4rbdSGKDxKC4iXKJWhEG9Mjo0l8JSobSoGq49nsBaXezkz--3ajxBaiWgUM-20Kd4hk8Af6LGX0BIsieZJlrMTmhJu8HaUBJlzRlA0LQxT1Y7Sfp2HFWSgs3tQg--oqMHVfaHw__"
+            src="https://s3-alpha-sig.figma.com/img/4ff2/5fbb/d22801330eccf9aaeedf7388f729ecdf?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=szEUR6hNWkXzJIOVxDtJrT-TXVhNj5bWHAWhZyDfvjEjnPRhIwR750uREpQLgLKzhTGQ08U~F1sQt2oX3ZrgHXO9MgOn9CxEoyWSek0GvKkz0r7rl16qmn-4ZrUTlY3QdFfGb9WgNy0ToNd-DwtGVUnd6mDIZGLGtXza1hufCrG~9GinbDc7n2AesJyvlsQQwdduRwh-sT5y2kr92sIWVWyyf6QQEz1VUV8GpqBTLZp3pu5aV5f0L~0jLoLvrQRARY5qWM9QI6lAele9TXfXPfT9mryWXUUBScuw5yaxczQVnkpOLzLb6dWDBXWeCeZCFP47V41VwAPnkNYSTNZazw__"
             alt="chimpazee"
           />
         </div>
@@ -48,7 +48,7 @@ export default function AboutUs() {
         <div className="articles">
           <div className="article">
             <img
-              src="https://s3-alpha-sig.figma.com/img/8c88/8b29/002577f7500b2ab4a99aaa7d8e6be7f0?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=qxfKYrtgrraOxbQkcoGbu0datTmEWT8fOiREBEnfSGSOPOORCRE4Xlzi5bi6bb4ubdnI0KSAzQJzaePkMx5FqlGVZk1hvopjDvx4yRFDe5PZ3VTenWJhLiB~E40wzZiS0GBTXHkaPlIfIaai2Cu621Xdhxfx~oULmJQyoPdT21py4zRmYUdwz-46B-gVN3mLc9NP9LlLpZNlUWccixA~imYuo59-4ddMVkCguKeu61up00paei6z5VvDNyiYYBUarLUwLqIF8lXoTxzmFZD3weLrC4N5PxvF9tL7AmSiA85TuL2wOPIsAJwaudkh-WWfLfofoAE-BXR-rgx4uVYCqw__"
+              src="https://s3-alpha-sig.figma.com/img/8c88/8b29/002577f7500b2ab4a99aaa7d8e6be7f0?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=QZofUFwutUu1VyMqr~cErUsYGJrnpHnjb78T7n7Fqg12lWSdRzJtAa9LWR9r8rmE7McnomsQTBHjzwXdj2-XUaNEtAqGSQvET1lZeBnh4Bm1z05QGOj41DHomDaUIJVytMK84dZBvGTv~yMFmalzoYE55hLZ5cCkHwtf0PjxN1tTYQqWLaZTNXdIVRavEIPbthDuiuzGLF7~dFioLYpOsu9vtin2doQL1gZIiyLhC1~BxCfBmxRtPaZ0JKsUuUtMtNDUmxH1H~oU27haaOJoFZbkKhN9kAUrpiLOsqm35YdSqAb2GQpn2aFTpedPKhOFrRdHK73K-qfu8kHDOQ37Qw__"
               alt="lodge"
             />
             <p>
@@ -72,13 +72,13 @@ export default function AboutUs() {
               practices.
             </p>
             <img
-              src="https://s3-alpha-sig.figma.com/img/7600/56f9/b94a31ecc9af090ab219a5e6a933a894?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Pjlfi5S6wY5cND1LBYpgubpDXQbowgzVrBSlW3Do56BWjXA0ia6T9BCQzRWvECgW5K0zPPh6hb~cEvJvoVx0ece8OSG9I8vShlrKrWn0dCZ4506FcLDoiz04WByrzvfG~0gVQVb5BeMv3AVcQm1UmQVd8ZHKK~fBJNOQxqA9-TYMb717tCSLQhUnbljajCC47gKG~YZyAiW9shVeRNu~GWx4AsRLyq~OGt9DP92XHkjHB8c-2n3EU2q8tgGqQueaMSJPrwyRBMmXYZFnPJBuG83stDlpyHRnV3HttS6CXov0iookvBcjKTkyeCiE1x7NKMTqc~bWuNc~ps4gKn~9TA__"
+              src="https://s3-alpha-sig.figma.com/img/7600/56f9/b94a31ecc9af090ab219a5e6a933a894?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=fmpo6W91lMBqir8hCS~HYsn2LlpOdNICYOjCF0~52MLGSDTnLiQy1cj5sH2-WlgL68qOIKRLaRcJx4I2C15~IsmXzMUbxYg1npkYAZiGVL0KFKkiAzGG64BqzI5jjOu5RI-Hp44OVG9cUEvCl3DbsHQsR652XCrEoNWJWJLWMWssvJPYkLgxt9oxFYOFV23XOwa2Bib9FoT3qX0DqMSHYVAMl7dQ2wgMc69QebtgPBejyxKUngld~zy9qcB6SYePWothSPhfTJ84ooq7l7boqUrGlB5J57YXMVBvFDRlYC3bSm-6hhO2nDC3IVb2TUVuK~uwkNOF6LsoyBYto0keKw__"
               alt="lodge"
             />
           </div>
           <div className="article">
             <img
-              src="https://s3-alpha-sig.figma.com/img/fd63/971c/9ce5d2804ffd9f32ac67720292bd35a8?Expires=1740355200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VfxgXCwxzHp6IlDsJBirlgNziEZVfT7aK1GcNJQLPghKtp71yI2fW5WfUXPGbz1fwvQzpZIHvoXxSJFreqr4ELqdoUClFb1vIRb6Cw~GUkmIah541LnAeNQCSGqvVE3VzqB9baJZiacRpwBZPZCvdwVAelXqYBOVKXWsZL6Kz2iSQtc65kuwMmyGiYI6HZ7RKXyYCUHIGnYT9ygk3aLU7wgWDL7ipDYBLMADt0RX7KpThPCdQNynprwEDijIEUv0V3hYr4BTtZTMtuh~hcE8wyGOT~ANPjRLA1KQNESR1doAfnzpL3Me2vvUhVPsCyDItPSSjZ~4Jxdpb3cLgUVnTg__"
+              src="https://s3-alpha-sig.figma.com/img/fd63/971c/9ce5d2804ffd9f32ac67720292bd35a8?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ngOyS3R6XL2OhjBFCtMPVWY--aggR7klENKI-aaTaKPswcEjmCaxH5JicSHuwfUHGek3F4FjwmVAuRXaL-ThMycsBthJOgU70F0gCFa6ESOQUfwcbBFKa1LU1WfvEFuualujo8dMG4qgvD779QAgOigYKvtfvq0rn6BJLSPsrFHKtC0-Pwgcmb6ORBjH6jEULET1TggLQverAsW7hjbJ7NOSnsXNgujzKyDnmK8PjXdWEp-JIsoIbFCs3DQZP905vm-4iJAswOrABAN99mONc5VreTutSsJC0WV8m4Cp5HLqksXY1CRgBkBKf-yJm-6vJDCvObli4N6goU9ZEY6OeA__"
               alt="lodge"
             />
             <p>

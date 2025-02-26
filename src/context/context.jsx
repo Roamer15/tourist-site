@@ -9,19 +9,19 @@ export const CardData = ({children}) => {
             id: 1,
             title: 'Akagera National Park',
             description: 'Visitors to Akagera National Park can take part in a range of activities, including game drives, boat safaris, bird watching, and nature walks.',
-            image: 'https://s3-alpha-sig.figma.com/img/6521/b928/1e965b9e2b4c3f113bb67ce649d7a461?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=BFnMzB1fVjO4hybK0MliJ2kLAbEZ1FO8vXk3j0ha3-IuY~CqXZ98hScMGL3OVoG784pno1jbHteJjmZ0rFrzzIbyELeibS9oDiTaHRn2UuNF4GULyo1eeZonkDOg2LD96MWofpaZWfq2XvhEgFcPZGfb2aab86um39s5vPPoz2A6oDTVRumX16InVxmusYi1fnFrZWLoUbMW6o0w09rUchsaNlUsczHRk-jz6DYh7DbyE3qaYdiJYOAVILIMaZtWNYSnksaE4Bvmbd5qUowBTKEK1zWfAro7x0gpp5Yd9HiMh-YRvxPWWhP5WS3uQMYC527uwp9SAee~14IIHgAtww__'
+            image: 'https://s3-alpha-sig.figma.com/img/6521/b928/1e965b9e2b4c3f113bb67ce649d7a461?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=r2wNgUQxFm798hYM8iigkiL0Ac4F43t9rO2vYMNScYzIWW-jLE5T3UVVBG~9zPSpSIFep4nCjnY-1P3mAmgB9IsYDSotdQid5JxQ7SEHuDgH1v5vaIJ6RNYSE2P1hB8FPlL3IecuTqxUWEpuYSuCPLKeFgTpxHLXLl3sYwYyyE9n2AzPQ9-IJ61t7sz8HIkDwLWzHQnw6sx71-pNEFX7hoWwqSI3jY3ZwQMR731tDeb~Dzk3Cnw1gDPIKHIrsNpTdgEKKVATbx4FCPCnCvyNSNUm66cEH-IYAsm1bP8LL3MFIcRqXLDXwpSpFsbdAatptbX79iX0fSlJOdko-o4kEw__'
         },
         {
             id: 2,
             title: 'Bisoke Hike',
             description: 'Visitors to Akagera National Park can take part in a range of activities, including game drives, boat safaris, bird watching, and nature walks.',
-            image: 'https://s3-alpha-sig.figma.com/img/5d06/b58d/ba0e694cee79ef5384b5687366cc3ed3?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=NZSAUblWlqDFD7UbK8tfNII-7~mjV9rf-sYz9lt51xT0wHLvJgkFPKbXgXVgKB4-OBuSPTtqipaHYvIa3h9Pkk0WmKRVwGXHSJzCtMxwrEX4-JXM959uOaFRE54RTsfdY3WodoJi5WwFruI1C~i7FevlcR8Lp5zsCW4W-5Bzf9i33vHd9xh9vhc7XXVUbmkl80x8JcsV5GQFCQ4BVbo1JaeSNBImXkJ1lDZNTaYmtI~bcOfLdbX0P0O07~WAhLDocLeRf1psp8InzloqZ~4NhW-vlfoLZUuMghgTUFEB1xPg6g4XpsSbjKXKWGcyvekY8yB9MKHCuAC0thY-DuXqSA__'
+            image: 'https://s3-alpha-sig.figma.com/img/5d06/b58d/ba0e694cee79ef5384b5687366cc3ed3?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=s8QxeYj6PYG9ptlYU2FEfRCaw9gM11ubym1I21N63402JygyamiPbn3QNgEOBJzxnuN7oSA23fpsGO9mOMdIVlJqHlKqBVixt7BY91xO1DbLKrWIC4Y-yd5DE8uy-hrRso2PNs3GuPkMMyvmwTENaA0Tg5KEhrW5x~yDBF7ZDA~~A9FXisXLgiaEc5R6dchNkLTT-BcGl~NUvOAPOjAH0LNGkZz88XGOcS5cYgU4fT4Kvv5xvb9HSOuZVi5jJunSXqPlzyyJm2Oz35W8GLOFD4CKA1VP03QXu2rUvl8n4MaUDM6wimq5olHJ-jl8QGuDwkM73ljfqXynYSCeeoz3hg__'
         },
         {
             id: 3,
             title: 'Lake Kivu trip',
             description: 'A trip to Lake Kivu can be a truly unique and memorable experience. ',
-            image: 'https://s3-alpha-sig.figma.com/img/2509/3e3b/45eb67d244449dc32bcd471b5af02dde?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=QNr1syVxceKilfjOH~-wOPWc3nExY4M9-LzwCDL8gb4NnKDxE6-fdRpJwJ4H1peWbf2qCrHo-NHQAci8uyu3iYdpzxzgHqoY2cOzIhmBWu~7NpygTqtvJqAOKlpIb4xuB9FI~sAdF~ZwcrINOMHFVj7nFTz31OroDrd~lyjwsnrAwIK3DPKYPaEIe5mRtkQ71SWU7DYAYNj1Ed-FxQXT7Cks2lh4zlHt76wCgr2OMs3e9FYOvLd61LN-rjhi4WYG8uvVXS7XKqqRZuMG96nXCiQBsLPhRwUPf4xX-roODrCxkrF-6AllcGM~w5DcjT~mXb363Aaa2IO~JyS-Yu7TRg__'
+            image: 'https://s3-alpha-sig.figma.com/img/2509/3e3b/45eb67d244449dc32bcd471b5af02dde?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=nk68gdhtBxbxvtUGwP4S4D7z70bUKw3Y2hx2417gjHtYXuqEhtPOag30JXKvrHF62Wc3cSceE1Fw7kCs3r31sn2VJHeDd105SJGIIIDg0ffh8g5wlWhBSo3W6VazDRM1WwPrZI4B1yUH7m4lbVbv0Ymix-SWt1yG3cEnD4hN4OvuW3sB1jPdiCTfnl3uMO54BkkmPgRXgdeDzVYQ30GzeTc1M0v86BcewgnUP4pte3tfjHLACu6mCRgZzoTNpZKLl0bDWiTv7iDg1Ct-VR7o7QIKMaI3hSk0CwmNURj6A9Ljypd2s4o7n-Mj58ytCCkXTNSPZ2hTxWG2zwz0NpW4Dg__'
         }
     ]
 
@@ -29,7 +29,7 @@ export const CardData = ({children}) => {
         {
             name: "Kigali",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sit.",
-            image: "https://s3-alpha-sig.figma.com/img/a863/7b3c/2e3b6a00b8bbcfe1105f7916ee6a392e?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ubYhSfaus1mmzjAOxWxWiRbgUDFyOSpt2fltcwJ~QOCs-MV8zUYf0SLrn5zTdwiZLzArVhOnFNqu7tF~iJU-bzP3X2CVrgU2grRTT8mtoCU5hNq7pqw95KelowfAPsNyDKziCEahgowmqvHiRuywPe5bndbp85lkxWRBq1K-lUjlFr05LAfD2ptrx0OuqVcGCweaA6CHuxowMDXLIoIcvt1wnw16G6nEfrd8BcV6x2vhsKkRQD~sAMv30Ef8j6prLgyjOMS5zib6GwQLFp~r48wpLcbhUYkdTGC5g7I~vgwNHiW8Y3RG-PS~9eUJCYr1~JO1IQIUpJpMyj5g29biew__"
+            image: "https://s3-alpha-sig.figma.com/img/a863/7b3c/2e3b6a00b8bbcfe1105f7916ee6a392e?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=W7lhSDPRtP2oh3bQ4RkxTjdNw5V4Rt2Wcz7Ks3ASIqq2r6o~3bN3zyOGysMx-rAUq3Vg3yRsjsMAu0gjtJfgUoyFib9Z8E-tIBsJpW~JAjLXZFSSpmMZsEIiIhVXjp1h1X2h-wah2OuGgoRj1EG04MZ7mHD~EX7Xiw6Qpf56Trnb0e1GJ4TmBsWVxYrIWMTuk2QaTCL2QFy5UNIipSz6uQyVM97OkBBYlG0cZ4JYssKZet3lvCzytPXK5e-6A-FCjFJw2TNdHN4bX6DjnH6mHpL-lsbowzEMFLGcX9G6qm4lyz-3eetoI2uZEC6l9-edoQLv2Z-pJ9u-9pAOmxDcUw__"
         },
         {
             name: "Huye",
@@ -44,7 +44,7 @@ export const CardData = ({children}) => {
         {
             name: "Musanze",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sit.",
-            image: "https://s3-alpha-sig.figma.com/img/fea2/604b/aee50bbe92ffcd58172c7b9db8afdd94?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=C~BDLmJm2POtW-k4FMkJgjIisFAiohhUJZn6nmEAuAGbAfx~sS6PhtrIHM3Nhyjc1Ufg7Ryis9mT~tZCXMR9tZp9mxrHLPBKejqiNNlNZjJ-uU9eAecMINO9It37OlzmXsBlTp~6R4YV4WJktb3B0eWkV45RoivBPbu6zADAziTL0mS2Iu-RBDcngChtDl-ebPjaq2~Juic1SM9PT0Q0WM7Djf9zkWQ~Sl0kqwsGNC9LH6Amc05STQKmbYd9s-8XwkSH5qN8eCYObzfrO0kWrnavLzAM~mzFPIFHmSmMjEVnDFauNLNHYlFJsor5-Ul~B8Qb8r2Y3CHB23sg8FezDA__"
+            image: "https://s3-alpha-sig.figma.com/img/fea2/604b/aee50bbe92ffcd58172c7b9db8afdd94?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=AL8COtp~wV-lrXIaC0pYUY0RQu8s3uZ3Wz-X1oFTAwOsPV2ueruxdL8wkLL9jcV2TLf7nA22zB56Ah5NMxAczSi21jiocu8juQMYOOn0vmgD~6t1iM~kgbZALuDiu0~euC5~N9ltk7D3MfgY5n-owEaimkLrlxhw~EWSRW1RVHVRcwKWxonEsk3Ua2U2bbz1ko3sCk9AmxHj5InTMjGwZHrYTUVcLxsaDlRYdhwGVpRKwJVm11-WsHXJPD5o~E2P-29-Pdm8KDozG1FSF-2BH~Mx5gECqiL-BfDYqRhYZF8HoKeK9syYYKnDKBOBUqBuKFy6uqGxnARPUlHATGSOPA__"
         }
     ];
 
