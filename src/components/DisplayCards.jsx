@@ -15,9 +15,6 @@ export default function DisplayCards() {
                         <div className="card-body">
                             <h3>{card.title}</h3>
                             <p>{card.description}</p>
-                            <Button variant="contained"
-                            sx={{ backgroundColor: '#C7923E' }}
-                            >Learn More</Button>
                         </div>
                     </div>
                 )
